@@ -1,0 +1,22 @@
+{
+    "name": "descent-into-avernus-actors",
+    "title": "Descent into Avernus Actors",
+    "description": "A module containing the exported Descent into Avernus Actors compendium.",
+    "version": "1.0.0",
+    "library": "false",
+    "manifestPlusVersion": "1.0.0",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
+    "author": "Vost",
+    "packs": [
+        {
+            "type": "Actor",
+            "label": "BG-DIA actors",
+            "module": "descent-into-avernus-actors",
+            "path": "packs/world-bg-dia-actors-1650893477182.db",
+            "name": "world-bg-dia-actors-1650893477182"
+        }
+    ],
+    "manifest": "",
+    "download": ""
+}
